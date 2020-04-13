@@ -1,0 +1,21 @@
+#Kaban {
+	text-align: center;
+	color: gray;
+	font-family: Times, Courier, serif;
+}
+#Serega {
+	height: 80em;
+	width: 80em;
+	float: left;
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+}
+#Paha {
+	height: 80em;
+	width: 80em;
+	float: left;
+	text-align: center;
+	padding: 5px;
+	margin: 5px;
+}
